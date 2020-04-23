@@ -93,7 +93,7 @@ Chinese Translation:
 ### Build
 - Build via Android Studio.
 
-#### You can also get released apk from [here]().
+#### You can also get released apk from [here](is with error 404).
 
 ## Usage
 
